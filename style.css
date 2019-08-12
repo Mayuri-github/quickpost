@@ -1,0 +1,21 @@
+* { margin: 0px; padding: 0px; }
+body {
+	font-size: 120%;
+	background: cyan;
+	font-family: sans-serif;
+}
+
+.signup__box{
+	display: flex;
+	flex-flow: column;
+	align-items:center; 
+	}
+
+.header h2{
+	color: black;
+	font-size: 40px;
+}
+.input-group{
+	padding: 2px;
+	margin:15px;
+}
